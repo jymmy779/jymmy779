@@ -50,7 +50,7 @@
  <img
     src="assets/aesthetic-green.gif"
     alt="meme"
-    height="200"
-    width="600"
+    height="100"
+    width="500"
   />
 </div>
