@@ -40,8 +40,14 @@
   />
 </div>
 
+<br>
+<br>
+
+<div>
  <img
     src="assets/aesthetic-green.gif"
     alt="meme"
-    width="600" 
+    height="100"
+    width="1000" 
   />
+</div>
