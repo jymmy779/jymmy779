@@ -1,16 +1,47 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jymmy779/jymmy779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/welcome-to-my-profile-welcome.gif" alt="Elio GitHub Header">
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p>
+  coding something? nahhh <strong>love solving sth by coding~~</strong>  <img src="assets/text-work.gif" width="50" alt="shiba" align="middle"> and shiba
+  <img src="assets/shiba-dance.gif" width="40" alt="shiba" align="middle">
+</p>
+
+<br>
+
+<div>
+  <img
+  src="assets/divider-rainbow.gif"
+  width="500"
+  alt="divider"
+  align="left"
+>
+  <img
+    src="assets/breakdancing-hampster.gif"
+    alt="animal-roll"
+    align="right"
+  />
+</div>
+
+<br>
+
+<div>
+  
+<br>
+  
+  <img
+    src="assets/funny-programming-coding-tech-memes-40-65a0e4e7e2f45__700.jpg"
+    alt="meme"
+    width="300"
+  />
+</div>
+
+ <img
+    src="assets/aesthetic-green.gif"
+    alt="meme"
+    width="600" 
+  />
