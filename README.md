@@ -41,7 +41,6 @@
 </div>
 
 <br>
-<br>
 
 <div>
  <img
