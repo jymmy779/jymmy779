@@ -14,17 +14,19 @@
 <br>
 
 <div>
-   <img
-    src="assets/breakdancing-hampster.gif"
-    alt="animal-roll"
-    align="right"
-  />
+  <div>
+      <img
+          src="assets/breakdancing-hampster.gif"
+          alt="animal-roll"
+          align="right"
+        />
+     </div>
   <img
      src="assets/divider-rainbow.gif"
      alt="divider"
      align="left"
-     width="350"
-     heigh="100"
+     width="100%"
+     height="20"
    />
 </div>
 
@@ -34,11 +36,13 @@
   
 <br>
   
-  <img
-    src="assets/funny-programming-coding-tech-memes-40-65a0e4e7e2f45__700.jpg"
-    alt="meme"
-    width="300"
-  />
+  <div>
+     <img
+       src="assets/funny-programming-coding-tech-memes-40-65a0e4e7e2f45__700.jpg"
+       alt="meme"
+       width="300"
+     />
+  </div>
 </div>
 
 <br>
@@ -47,7 +51,7 @@
  <img
     src="assets/aesthetic-green.gif"
     alt="meme"
-    height="80"
-    width="80%"
+    height="90"
+    width="100%"
   />
 </div>
