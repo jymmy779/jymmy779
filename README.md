@@ -21,7 +21,7 @@
   />
   <img
      src="assets/divider-rainbow.gif"
-     width="450"
+     width="400"
      alt="divider"
      align="left"
    />
