@@ -25,8 +25,7 @@
      src="assets/divider-rainbow.gif"
      alt="divider"
      align="left"
-     width="100%"
-     height="20"
+     width="500"
    />
 </div>
 
@@ -51,7 +50,7 @@
  <img
     src="assets/aesthetic-green.gif"
     alt="meme"
-    height="90"
-    width="100%"
+    height="200"
+    width="600"
   />
 </div>
