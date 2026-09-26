@@ -7,8 +7,8 @@
 <br>
 
 <p>
-  coding something? nahhh <strong>love solving sth by coding~~</strong>  <img src="assets/text-work.gif" width="50" alt="shiba" align="middle"> and shiba
-  <img src="assets/shiba-dance.gif" width="40" alt="shiba" align="middle">
+   <strong>coding something? nahhh love solving sth by coding~~ <img src="assets/text-work.gif" width="50" alt="shiba" align="middle"> and shiba
+  <img src="assets/shiba-dance.gif" width="40" alt="shiba" align="middle"> </strong> 
 </p>
 
 <br>
