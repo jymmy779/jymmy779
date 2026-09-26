@@ -44,7 +44,7 @@
  <img
     src="assets/aesthetic-green.gif"
     alt="meme"
-    height="100"
-    width="700" 
+    height="80"
+    width="600" 
   />
 </div>
